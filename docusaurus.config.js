@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Turovsky Maksim KP-31',
-  tagline: 'Lab 2',
+  title: 'Turovsky Maksim KP-31 KPI',
+  tagline: 'Lab_2',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
