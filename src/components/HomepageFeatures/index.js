@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Enchanting Feline Companions: The Grace and Independence of Cats',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Cats attract with their grace and independence. They are able to create a special bond with their owners and inspire a sense of comfort and tranquility.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Feline Friends: The Warmth and Joy of Cat Companionship',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Cats are great companions that provide warmth and joy to their owners, and their independence and sensitivity make them excellent pets for many people.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Exploring the Quirks: The Unique Personalities of Cats',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Cats have a unique personality and distinct behavioral traits, making each one unique and fun to observe and interact with.
       </>
     ),
   },
